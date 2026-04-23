@@ -1,0 +1,10 @@
+{
+  "appId": "com.phd.workspace",
+  "appName": "博士工作台",
+  "webDir": "app",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

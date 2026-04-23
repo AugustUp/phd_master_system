@@ -1,0 +1,8 @@
+node_modules/
+src-tauri/target/
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+*.log
+rustup-init.exe
